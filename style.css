@@ -26,7 +26,7 @@ form{
  }
  .form-control{
  	width: 600px;
- 	background: red;
+ 	background: transparent;
  	border: none;
  	outline: none;
  	border bottom: 1px solid grey;
@@ -40,7 +40,7 @@ form{
 
  }
  form .submit{
- 	background: #000000;
+ 	background: #ffffff;
  	border-color: transparent;
  	color: #000000;
  	font-size: 20px
